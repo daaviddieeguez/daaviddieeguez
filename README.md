@@ -42,7 +42,7 @@ Mi próximo gran objetivo es dominar **Docker** para la gestión de contenedores
 
 ## 🌐 Redes y contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daaviddieeguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daaviddieeguez/)
+[![LinkedIn](https://img.shields.io/badge/daaviddieeguez-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daaviddieeguez/)
 [![Email](https://img.shields.io/badge/daaviddieeguez@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daaviddieeguez@gmail.com)
 
 ---
